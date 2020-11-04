@@ -5,15 +5,15 @@
 
 Мы стремимся построить модель со значением метрики качества F1 не меньше 0.75.
 
-## Используемый стек:
-CatBoost,
-LightGBM,
-NLTK,
-Pandas,
-re,
-Torch,
-Transformers,
-Hyperopt,
-numpy,
-sklearn,
-машинное обучение
+## Используемый стек:    
+CatBoost,    
+LightGBM,    
+NLTK,    
+Pandas,     
+re,     
+Torch,     
+Transformers,     
+Hyperopt,     
+numpy,     
+sklearn,     
+машинное обучение    
